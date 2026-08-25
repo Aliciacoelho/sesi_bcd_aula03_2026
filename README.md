@@ -1,6 +1,5 @@
 # Projeto: Gestão de Pedidos
 
-![MER DER Conceitual e Lógico] (/.livraria.drawio.png)
 ## Dicionário de Dados
 
 | Entidade | Atributo | Tipo | Tamanho| Descrição |
@@ -32,3 +31,7 @@
 ## Dados de teste em CSV
 - [autor.csv](./autor.csv)
 - [cliente.csv](./cliente.csv)
+- [venda.csv](./venda.csv)
+- [livro.csv](./livro.csv)
+
+
